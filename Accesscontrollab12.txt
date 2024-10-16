@@ -1,0 +1,13 @@
+Multistep process with no access control on one step
+
+Credentials
+administrator: admin
+wiener: peter
+
+End Goal
+Promote yourself as administrator
+
+Analysis
+1. Login as administrator see how the system works
+2. Login as wiener 
+3. promote wiener to administrator
